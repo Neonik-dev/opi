@@ -2,7 +2,7 @@ public class C extends E {
 
     private int g = 1;
 
-    private double h = 100.500;
+    private double h = 100.50;
 
     public java.util.Random mm() {
         return new java.util.Random();
