@@ -15,4 +15,8 @@ public class C extends E {
     public Object pp() {
         return this;
     }
+
+    public int cc() {
+        return 42;
+    }
 }

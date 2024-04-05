@@ -15,4 +15,12 @@ public class J {
     public byte oo() {
         return 4;
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }

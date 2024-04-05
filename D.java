@@ -15,4 +15,16 @@ public class D {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public int cc() {
+        return 39;
+    }
 }
