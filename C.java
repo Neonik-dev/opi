@@ -16,7 +16,23 @@ public class C extends E {
         return this;
     }
 
+    public float ff() {
+        return 0;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
     public int cc() {
         return 42;
+    }
+
+    public long dd() {
+        return 33;
+    }
+
+    public int af() {
+        return -1;
     }
 }

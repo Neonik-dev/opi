@@ -1,4 +1,4 @@
-public class E {
+public class E extends null {
 
     private double a = 100.500;
 
@@ -22,5 +22,17 @@ public class E {
 
     public double ad() {
         return java.lang.Math.sqrt(13);
+    }
+
+    public int ae() {
+        return 8;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public float ff() {
+        return 0;
     }
 }

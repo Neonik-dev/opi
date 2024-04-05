@@ -1,4 +1,4 @@
-public class D {
+public class D extends null {
 
     private long g = 4321;
 
@@ -13,7 +13,7 @@ public class D {
     }
 
     public java.util.Set<Integer> ll() {
-        return new java.util.HashSet<Integer>;
+        return new java.util.LinkedList<Integer>;
     }
 
     public java.util.List<String> jj() {
@@ -24,7 +24,11 @@ public class D {
         return new int[]{4, 3, 2, 1};
     }
 
-    public int cc() {
-        return 39;
+    public Object rr() {
+        return null;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
     }
 }
